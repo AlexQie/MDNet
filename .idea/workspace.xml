@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c225ccb5-ab08-4125-ad5f-583cdebe0fc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/matconvnet2tensorflow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/generate_samples.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/data_input.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/networks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/seqList/otb-vot14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/seqList/otb-vot15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/seqList/vot13-otb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/seqList/vot14-otb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/seqList/vot15-otb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/training/train.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c225ccb5-ab08-4125-ad5f-583cdebe0fc7" name="Default" comment="" />
     <ignored path="MDNet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
